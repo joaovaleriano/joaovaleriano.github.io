@@ -12,8 +12,10 @@ title: Publications - João Valeriano
 <!-- <hr  noshade> -->
 
 <ol>
+<li><a target="_blank" href="https://doi.org/10.1016/j.colsurfa.2021.128082"><i>The role of small separation interactions in ferrofluid structure</i></a>. Physics Letters A.  Volume 384, Issue 17, 15 June 2020, 126370. <br>
+<font size=2>Leonardo Luiz e Castro, Caio César Cavalcante Amorim, <b>João Pedro Valeriano Miranda</b>, Tiago de Sousa Araújo Cassiano, Fábio Luís de Oliveira Paula.</font></li>
 <li><a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0375960120301894"><i>Non-monotonous behavior of the number variance, Mandel factor, invariant uncertainty product and purity for the quantum damped harmonic oscillator</i></a>. Physics Letters A.  Volume 384, Issue 17, 15 June 2020, 126370. <br>
-<font size=2><b>J.P. Valeriano</b>, V.V. Dodonov. (<a target="_blank" href="https://www.researchgate.net/publication/339640689_Non-monotonous_behavior_of_the_number_variance_Mandel_factor_invariant_uncertainty_product_and_purity_for_the_quantum_damped_harmonic_oscillator">Full text here</a>)</font></li>
+<font size=2><b>J.P. Valeriano</b>, V.V. Dodonov.</font></li>
 </ol>
 
 <hr style="border: 1px solid" noshade>
