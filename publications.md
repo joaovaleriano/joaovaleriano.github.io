@@ -12,8 +12,9 @@ title: Publications - João Valeriano
 <!-- <hr  noshade> -->
 
 <ol>
-<li><a target="_blank" href="https://doi.org/10.1016/j.colsurfa.2021.128082"><i>The role of small separation interactions in ferrofluid structure</i></a>. Physics Letters A.  Volume 384, Issue 17, 15 June 2020, 126370. <br>
+<li><a target="_blank" href="https://doi.org/10.1016/j.colsurfa.2021.128082"><i>The role of small separation interactions in ferrofluid structure</i></a>. Colloids and Surfaces A: Physicochemical and Engineering Aspects.  Volume 635, 20 February 2022, 128082. <br>
 <font size=2>Leonardo Luiz e Castro, Caio César Cavalcante Amorim, <b>João Pedro Valeriano Miranda</b>, Tiago de Sousa Araújo Cassiano, Fábio Luís de Oliveira Paula.</font></li>
+</br>
 <li><a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0375960120301894"><i>Non-monotonous behavior of the number variance, Mandel factor, invariant uncertainty product and purity for the quantum damped harmonic oscillator</i></a>. Physics Letters A.  Volume 384, Issue 17, 15 June 2020, 126370. <br>
 <font size=2><b>J.P. Valeriano</b>, V.V. Dodonov.</font></li>
 </ol>
