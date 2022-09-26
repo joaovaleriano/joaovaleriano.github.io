@@ -12,7 +12,7 @@ title: Publications - João Valeriano
 <!-- <hr  noshade> -->
 
 <ol>
-<li><a target="_blank" href="https://link.springer.com/article/10.1007/s11071-022-07865-x"><i>Sequential time-window learning with approximate Bayesian computation: an application to epidemic forecasting</i></a>. Nonlinear Dynamics. 2022. <a target="_blank" href="/papers/valeriano_sequential_time_window_2022.pdf">(PDF)</a> <a target="_blank" href="https://arxiv.org/abs/2203.10982">(arXiv preprint)</a><br>
+<li><a target="_blank" href="https://link.springer.com/article/10.1007/s11071-022-07865-x"><i>Sequential time-window learning with approximate Bayesian computation: an application to epidemic forecasting</i></a>. Nonlinear Dynamics. 2022. <a target="_blank" href="/papers/valeriano_sequential_time_window_2022.pdf">(PDF</a>, <a target="_blank" href="/papers/valeriano_sequential_time_window_2022_supp.zip">Supplementary Material</a>, <a target="_blank" href="https://arxiv.org/abs/2203.10982">arXiv preprint</a>)<br>
 <font size=2><b>João Pedro Valeriano</b>, Pedro Henrique Cintra, Gustavo Libotte, Igor Reis, Felipe Fontinele, Renato Silva & Sandra Malta.</font> <br></li>
 <br>
 <li><a target="_blank" href="https://doi.org/10.1016/j.colsurfa.2021.128082"><i>The role of small separation interactions in ferrofluid structure</i></a>. Colloids and Surfaces A: Physicochemical and Engineering Aspects.  Volume 635, 20 February 2022, 128082. <a target="_blank" href="/papers/castro_small_separation_2021.pdf">(PDF)</a><br>
